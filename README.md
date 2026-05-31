@@ -53,7 +53,6 @@ streamlit run UAS_ML_ALIEPFADILAH_2307031.py
 ## 👤 Identitas Pengembang
 
 - **Nama:** Aliep Fadilah
-- **NIM:** 2307031
 - **Program Studi:** D4 Sistem Informasi Kota Cerdas (SIKC)
 - **Instansi:** Politeknik Negeri Indramayu
 - **Mata Kuliah:** Machine Learning
